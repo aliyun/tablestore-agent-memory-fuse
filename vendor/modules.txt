@@ -1,0 +1,31 @@
+# github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
+## explicit
+github.com/aliyun/aliyun-oss-go-sdk/oss
+# github.com/aliyun/tablestore-agent-storage-sdk/go v0.0.0-20260901040923-637f0435aceb => ../tablestore-agent-storage-sdk/go
+## explicit; go 1.20
+github.com/aliyun/tablestore-agent-storage-sdk/go/agentstorage
+# github.com/hanwen/go-fuse/v2 v2.10.1
+## explicit; go 1.21
+github.com/hanwen/go-fuse/v2/fs
+github.com/hanwen/go-fuse/v2/fuse
+github.com/hanwen/go-fuse/v2/internal
+github.com/hanwen/go-fuse/v2/internal/fallocate
+github.com/hanwen/go-fuse/v2/internal/ioctl
+github.com/hanwen/go-fuse/v2/internal/openat
+github.com/hanwen/go-fuse/v2/internal/renameat
+github.com/hanwen/go-fuse/v2/internal/utimens
+github.com/hanwen/go-fuse/v2/internal/xattr
+github.com/hanwen/go-fuse/v2/splice
+# github.com/kr/pretty v0.3.1
+## explicit; go 1.12
+# golang.org/x/sys v0.28.0
+## explicit; go 1.18
+golang.org/x/sys/unix
+# golang.org/x/text v0.39.0
+## explicit; go 1.25.0
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+# golang.org/x/time v0.15.0
+## explicit; go 1.25.0
+golang.org/x/time/rate
+# github.com/aliyun/tablestore-agent-storage-sdk/go => ../tablestore-agent-storage-sdk/go
